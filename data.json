@@ -1,0 +1,19 @@
+{
+    "users": {
+        "admin": "password"
+    },
+    "inventory": [
+        "atharv"
+    ],
+    "orders": [
+        "1 ton gehu to neerav"
+    ],
+    "logistics": [],
+    "payments": [
+        null
+    ],
+    "profile": {
+        "username": "admin",
+        "email": "admin@example.com"
+    }
+}
